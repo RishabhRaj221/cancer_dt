@@ -69,8 +69,8 @@ This project is licensed under the MIT License.
 
 For any inquiries, please contact:
 
-Shivam Kumar  
-Email: shivamkumar819991@gmail.com
+Rishabh Raj 
+Email: rajrishabh659@gmail.com
 
 
 
