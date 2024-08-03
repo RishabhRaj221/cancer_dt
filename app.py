@@ -120,8 +120,7 @@ def footer():
         # link("", image('https://i.imgur.com/QmFEKSu.png',width=px(100), height=px(100))),
         "Made by  ",
         link("", "@Rishabh Raj"),
-        "  ",
-        link(""),
+        
         br(),
         " Department of Chemical Engineering, BIT Mesra "
     ]
