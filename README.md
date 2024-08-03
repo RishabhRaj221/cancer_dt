@@ -1,7 +1,6 @@
 ## Cancer Prediction App
 
-This repository contains the code for a web application that predicts cancer diagnosis based on various input features. The app is built using Streamlit and is deployed at the following URL: [Cancer Prediction App](https://shivam-krcancerdetectionsystem.streamlit.app/).
-
+This repository contains the code for a web application that predicts cancer diagnosis based on various input features.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -22,19 +21,7 @@ The Cancer Prediction App is a machine learning application that predicts whethe
 - Simple and intuitive user interface built with Streamlit.
 - Deployed and accessible online.
 
-## Installation
-To run the app locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shivam188132/cancer_dt.git
-2. Create and activate a virtual environment
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-4. To run the app locally
-   ```bash
-   streamlit run app.py
+.py
 
 ## Model Training
 
@@ -53,9 +40,6 @@ The model is trained using the following features:
 
 The model training script (`train_model.py`) preprocesses the data, trains an `XGBClassifier` model, and saves the trained model to disk as `best_model.pkl`.
 
-# Deployment
-
-The app is deployed using Streamlit and is accessible at [Cancer Prediction App](https://shivam-krcancerdetectionsystem.streamlit.app/).
 
 # Contributing
 
